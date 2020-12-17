@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CXd'agua", "CXd'agua\CXd'agua.vcxproj", "{F4AE93D1-4D6F-4490-A155-C03D74AA006D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4AE93D1-4D6F-4490-A155-C03D74AA006D}.Debug|x64.ActiveCfg = Debug|x64
+		{F4AE93D1-4D6F-4490-A155-C03D74AA006D}.Debug|x64.Build.0 = Debug|x64
+		{F4AE93D1-4D6F-4490-A155-C03D74AA006D}.Debug|x86.ActiveCfg = Debug|Win32
+		{F4AE93D1-4D6F-4490-A155-C03D74AA006D}.Debug|x86.Build.0 = Debug|Win32
+		{F4AE93D1-4D6F-4490-A155-C03D74AA006D}.Release|x64.ActiveCfg = Release|x64
+		{F4AE93D1-4D6F-4490-A155-C03D74AA006D}.Release|x64.Build.0 = Release|x64
+		{F4AE93D1-4D6F-4490-A155-C03D74AA006D}.Release|x86.ActiveCfg = Release|Win32
+		{F4AE93D1-4D6F-4490-A155-C03D74AA006D}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D0B36308-47DB-4064-9238-9B5B9D0100E2}
+	EndGlobalSection
+EndGlobal
